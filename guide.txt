@@ -2,3 +2,4 @@ git config --global user.name
 git config --global user.email
 git add [file name] or git add .
 git commit -m " "
+git push origin name_of_the_origin
